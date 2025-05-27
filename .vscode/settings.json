@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Heart-Disease-Prediction/test_"
+    ]
+}
